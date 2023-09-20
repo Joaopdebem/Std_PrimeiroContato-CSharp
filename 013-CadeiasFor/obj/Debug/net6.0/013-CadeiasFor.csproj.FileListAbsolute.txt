@@ -1,0 +1,15 @@
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\bin\Debug\net6.0\013-CadeiasFor.exe
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\bin\Debug\net6.0\013-CadeiasFor.deps.json
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\bin\Debug\net6.0\013-CadeiasFor.runtimeconfig.json
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\bin\Debug\net6.0\013-CadeiasFor.dll
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\bin\Debug\net6.0\013-CadeiasFor.pdb
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\obj\Debug\net6.0\013-CadeiasFor.csproj.AssemblyReference.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\obj\Debug\net6.0\013-CadeiasFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\obj\Debug\net6.0\013-CadeiasFor.AssemblyInfoInputs.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\obj\Debug\net6.0\013-CadeiasFor.AssemblyInfo.cs
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\obj\Debug\net6.0\013-CadeiasFor.csproj.CoreCompileInputs.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\obj\Debug\net6.0\013-CadeiasFor.dll
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\obj\Debug\net6.0\refint\013-CadeiasFor.dll
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\obj\Debug\net6.0\013-CadeiasFor.pdb
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\obj\Debug\net6.0\013-CadeiasFor.genruntimeconfig.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013-CadeiasFor\obj\Debug\net6.0\ref\013-CadeiasFor.dll

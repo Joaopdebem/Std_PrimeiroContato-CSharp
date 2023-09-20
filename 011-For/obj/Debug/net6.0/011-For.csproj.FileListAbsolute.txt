@@ -1,0 +1,15 @@
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\bin\Debug\net6.0\011-For.exe
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\bin\Debug\net6.0\011-For.deps.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\bin\Debug\net6.0\011-For.runtimeconfig.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\bin\Debug\net6.0\011-For.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\bin\Debug\net6.0\011-For.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\obj\Debug\net6.0\011-For.csproj.AssemblyReference.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\obj\Debug\net6.0\011-For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\obj\Debug\net6.0\011-For.AssemblyInfoInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\obj\Debug\net6.0\011-For.AssemblyInfo.cs
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\obj\Debug\net6.0\011-For.csproj.CoreCompileInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\obj\Debug\net6.0\011-For.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\obj\Debug\net6.0\refint\011-For.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\obj\Debug\net6.0\011-For.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\obj\Debug\net6.0\011-For.genruntimeconfig.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\011-For\obj\Debug\net6.0\ref\011-For.dll

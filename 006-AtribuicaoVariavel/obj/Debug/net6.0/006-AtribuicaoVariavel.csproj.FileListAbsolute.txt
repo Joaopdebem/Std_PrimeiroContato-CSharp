@@ -1,0 +1,15 @@
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\bin\Debug\net6.0\006-AtribuicaoVariavel.exe
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\bin\Debug\net6.0\006-AtribuicaoVariavel.deps.json
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\bin\Debug\net6.0\006-AtribuicaoVariavel.runtimeconfig.json
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\bin\Debug\net6.0\006-AtribuicaoVariavel.dll
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\bin\Debug\net6.0\006-AtribuicaoVariavel.pdb
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\obj\Debug\net6.0\006-AtribuicaoVariavel.csproj.AssemblyReference.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\obj\Debug\net6.0\006-AtribuicaoVariavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\obj\Debug\net6.0\006-AtribuicaoVariavel.AssemblyInfoInputs.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\obj\Debug\net6.0\006-AtribuicaoVariavel.AssemblyInfo.cs
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\obj\Debug\net6.0\006-AtribuicaoVariavel.csproj.CoreCompileInputs.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\obj\Debug\net6.0\006-AtribuicaoVariavel.dll
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\obj\Debug\net6.0\refint\006-AtribuicaoVariavel.dll
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\obj\Debug\net6.0\006-AtribuicaoVariavel.pdb
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\obj\Debug\net6.0\006-AtribuicaoVariavel.genruntimeconfig.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\006-AtribuicaoVariavel\obj\Debug\net6.0\ref\006-AtribuicaoVariavel.dll

@@ -1,0 +1,15 @@
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\bin\Debug\net6.0\007-Condicionais.exe
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\bin\Debug\net6.0\007-Condicionais.deps.json
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\bin\Debug\net6.0\007-Condicionais.runtimeconfig.json
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\bin\Debug\net6.0\007-Condicionais.dll
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\bin\Debug\net6.0\007-Condicionais.pdb
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\obj\Debug\net6.0\007-Condicionais.csproj.AssemblyReference.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\obj\Debug\net6.0\007-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\obj\Debug\net6.0\007-Condicionais.AssemblyInfoInputs.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\obj\Debug\net6.0\007-Condicionais.AssemblyInfo.cs
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\obj\Debug\net6.0\007-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\obj\Debug\net6.0\007-Condicionais.dll
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\obj\Debug\net6.0\refint\007-Condicionais.dll
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\obj\Debug\net6.0\007-Condicionais.pdb
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\obj\Debug\net6.0\007-Condicionais.genruntimeconfig.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\Alura\C#\primeiroContatoCSharp\007-Condicionais\obj\Debug\net6.0\ref\007-Condicionais.dll

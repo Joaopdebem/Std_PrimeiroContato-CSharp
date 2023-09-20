@@ -1,0 +1,15 @@
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\bin\Debug\net6.0\007-VariavelBoolean.exe
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\bin\Debug\net6.0\007-VariavelBoolean.deps.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\bin\Debug\net6.0\007-VariavelBoolean.runtimeconfig.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\bin\Debug\net6.0\007-VariavelBoolean.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\bin\Debug\net6.0\007-VariavelBoolean.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\obj\Debug\net6.0\007-VariavelBoolean.csproj.AssemblyReference.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\obj\Debug\net6.0\007-VariavelBoolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\obj\Debug\net6.0\007-VariavelBoolean.AssemblyInfoInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\obj\Debug\net6.0\007-VariavelBoolean.AssemblyInfo.cs
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\obj\Debug\net6.0\007-VariavelBoolean.csproj.CoreCompileInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\obj\Debug\net6.0\007-VariavelBoolean.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\obj\Debug\net6.0\refint\007-VariavelBoolean.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\obj\Debug\net6.0\007-VariavelBoolean.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\obj\Debug\net6.0\007-VariavelBoolean.genruntimeconfig.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\007 - VariavelBoolean\obj\Debug\net6.0\ref\007-VariavelBoolean.dll

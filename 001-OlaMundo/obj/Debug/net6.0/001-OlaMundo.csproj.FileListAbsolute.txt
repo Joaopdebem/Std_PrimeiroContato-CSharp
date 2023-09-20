@@ -1,0 +1,15 @@
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\bin\Debug\net6.0\001-OlaMundo.exe
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\bin\Debug\net6.0\001-OlaMundo.deps.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\bin\Debug\net6.0\001-OlaMundo.runtimeconfig.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\bin\Debug\net6.0\001-OlaMundo.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\bin\Debug\net6.0\001-OlaMundo.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\obj\Debug\net6.0\001-OlaMundo.csproj.AssemblyReference.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\obj\Debug\net6.0\001-OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\obj\Debug\net6.0\001-OlaMundo.AssemblyInfoInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\obj\Debug\net6.0\001-OlaMundo.AssemblyInfo.cs
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\obj\Debug\net6.0\001-OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\obj\Debug\net6.0\001-OlaMundo.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\obj\Debug\net6.0\refint\001-OlaMundo.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\obj\Debug\net6.0\001-OlaMundo.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\obj\Debug\net6.0\001-OlaMundo.genruntimeconfig.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\001-OlaMundo\obj\Debug\net6.0\ref\001-OlaMundo.dll

@@ -1,0 +1,15 @@
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\bin\Debug\net6.0\003-VariavelPontoFlutuante.exe
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\bin\Debug\net6.0\003-VariavelPontoFlutuante.deps.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\bin\Debug\net6.0\003-VariavelPontoFlutuante.runtimeconfig.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\bin\Debug\net6.0\003-VariavelPontoFlutuante.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\bin\Debug\net6.0\003-VariavelPontoFlutuante.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\obj\Debug\net6.0\003-VariavelPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\obj\Debug\net6.0\003-VariavelPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\obj\Debug\net6.0\003-VariavelPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\obj\Debug\net6.0\003-VariavelPontoFlutuante.AssemblyInfo.cs
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\obj\Debug\net6.0\003-VariavelPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\obj\Debug\net6.0\003-VariavelPontoFlutuante.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\obj\Debug\net6.0\refint\003-VariavelPontoFlutuante.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\obj\Debug\net6.0\003-VariavelPontoFlutuante.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\obj\Debug\net6.0\003-VariavelPontoFlutuante.genruntimeconfig.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\003-VariavelPontoFlutuante\obj\Debug\net6.0\ref\003-VariavelPontoFlutuante.dll

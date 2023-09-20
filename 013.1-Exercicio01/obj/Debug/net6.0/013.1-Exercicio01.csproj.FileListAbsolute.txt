@@ -1,0 +1,15 @@
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\bin\Debug\net6.0\013.1-Exercicio01.exe
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\bin\Debug\net6.0\013.1-Exercicio01.deps.json
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\bin\Debug\net6.0\013.1-Exercicio01.runtimeconfig.json
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\bin\Debug\net6.0\013.1-Exercicio01.dll
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\bin\Debug\net6.0\013.1-Exercicio01.pdb
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\obj\Debug\net6.0\013.1-Exercicio01.csproj.AssemblyReference.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\obj\Debug\net6.0\013.1-Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\obj\Debug\net6.0\013.1-Exercicio01.AssemblyInfoInputs.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\obj\Debug\net6.0\013.1-Exercicio01.AssemblyInfo.cs
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\obj\Debug\net6.0\013.1-Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\obj\Debug\net6.0\013.1-Exercicio01.dll
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\obj\Debug\net6.0\refint\013.1-Exercicio01.dll
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\obj\Debug\net6.0\013.1-Exercicio01.pdb
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\obj\Debug\net6.0\013.1-Exercicio01.genruntimeconfig.cache
+C:\Users\tigal\OneDrive\Documentos\Development\Alura\C#\primeiroContatoCSharp\013.1-Exercicio01\obj\Debug\net6.0\ref\013.1-Exercicio01.dll

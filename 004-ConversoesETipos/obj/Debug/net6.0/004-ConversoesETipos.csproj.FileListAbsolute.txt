@@ -1,0 +1,15 @@
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\obj\Debug\net6.0\004-ConversoesETipos.csproj.AssemblyReference.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\obj\Debug\net6.0\004-ConversoesETipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\obj\Debug\net6.0\004-ConversoesETipos.AssemblyInfoInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\obj\Debug\net6.0\004-ConversoesETipos.AssemblyInfo.cs
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\obj\Debug\net6.0\004-ConversoesETipos.csproj.CoreCompileInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\bin\Debug\net6.0\004-ConversoesETipos.exe
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\bin\Debug\net6.0\004-ConversoesETipos.deps.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\bin\Debug\net6.0\004-ConversoesETipos.runtimeconfig.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\bin\Debug\net6.0\004-ConversoesETipos.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\bin\Debug\net6.0\004-ConversoesETipos.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\obj\Debug\net6.0\004-ConversoesETipos.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\obj\Debug\net6.0\refint\004-ConversoesETipos.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\obj\Debug\net6.0\004-ConversoesETipos.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\obj\Debug\net6.0\004-ConversoesETipos.genruntimeconfig.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\004-ConversoesETipos\obj\Debug\net6.0\ref\004-ConversoesETipos.dll

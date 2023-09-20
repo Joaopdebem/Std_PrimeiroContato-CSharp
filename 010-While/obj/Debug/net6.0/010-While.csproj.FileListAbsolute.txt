@@ -1,0 +1,15 @@
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\bin\Debug\net6.0\010-While.exe
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\bin\Debug\net6.0\010-While.deps.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\bin\Debug\net6.0\010-While.runtimeconfig.json
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\bin\Debug\net6.0\010-While.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\bin\Debug\net6.0\010-While.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\obj\Debug\net6.0\010-While.csproj.AssemblyReference.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\obj\Debug\net6.0\010-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\obj\Debug\net6.0\010-While.AssemblyInfoInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\obj\Debug\net6.0\010-While.AssemblyInfo.cs
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\obj\Debug\net6.0\010-While.csproj.CoreCompileInputs.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\obj\Debug\net6.0\010-While.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\obj\Debug\net6.0\refint\010-While.dll
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\obj\Debug\net6.0\010-While.pdb
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\obj\Debug\net6.0\010-While.genruntimeconfig.cache
+C:\Users\tigal\Documents\Development\Alura\C#\primeiroContatoCSharp\010-While\obj\Debug\net6.0\ref\010-While.dll
